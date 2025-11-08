@@ -1,0 +1,52 @@
+.border-shadow {
+  box-shadow: -2px 0px 14.4px 0px #ff5800;
+}
+
+.square-gradient {
+  background: linear-gradient(180deg, rgba(17, 17, 17, 0) 0%, rgba(232, 81, 2, 0.75) 100%);
+  box-shadow: 0px -2px 3px 0px #e85102 inset;
+}
+
+.wallet-wrapper {
+  padding: 1px;
+  border-radius: 4px;
+  background: linear-gradient(116.3deg, #929292 -24.07%, rgba(11, 11, 11, 0.26) 46.31%, #e54f00 119.55%);
+}
+
+.wallet {
+  background: linear-gradient(151.06deg, #333333 -16.12%, #111111 54.27%, #6e2600 127.52%);
+  border-radius: 4px;
+}
+
+.settings-border-wrapper {
+  padding: 1px;
+  border-radius: 30px;
+  background: linear-gradient(119.69deg, #767676 -29.64%, rgba(11, 11, 11, 0.26) 51.05%, #767676 135.02%);
+}
+
+.settings-border {
+  background: #111111;
+  border-radius: 30px;
+}
+
+.text-gradient {
+  background: linear-gradient(180deg, #ffffff 0%, #767676 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.input-border-wrapper {
+  padding: 1px;
+  background: linear-gradient(119.69deg, #767676 -29.64%, rgba(11, 11, 11, 0.26) 51.05%, #767676 135.02%);
+}
+
+.button-gradient {
+  background: linear-gradient(180deg, rgba(17, 17, 17, 0) 0%, rgba(232, 81, 2, 0.75) 100%);
+  box-shadow: 0px -2px 3px 0px #e85102 inset;
+}
+
+.account-border-wrapper {
+  padding: 1px;
+  background: linear-gradient(119.69deg, #767676 -29.64%, rgba(11, 11, 11, 0.26) 51.05%, #767676 135.02%);
+}

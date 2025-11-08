@@ -1,0 +1,11 @@
+{
+  "name": "FX Trading Platform",
+  "short_name": "FX Trade",
+  "description": "Advanced forex trading platform with real-time market data and portfolio management",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0B0B",
+  "theme_color": "#E85102",
+  "orientation": "portrait-primary"
+  
+}
