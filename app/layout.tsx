@@ -34,7 +34,7 @@ export default function MainLayout({
         <meta name="theme-color" content="#0B0B0B" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://your-domain.com/" />
+        <meta property="og:url" content="https://fxtrading-woad.vercel.app/" />
         <meta property="og:title" content="FX Trading Platform - Advanced Forex Trading Dashboard" />
         <meta 
           property="og:description" 
@@ -45,7 +45,7 @@ export default function MainLayout({
         <meta property="og:image:height" content="630" />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://your-domain.com/" />
+        <meta property="twitter:url" content="https://fxtrading-woad.vercel.app/" />
         <meta property="twitter:title" content="FX Trading Platform - Advanced Forex Trading Dashboard" />
         <meta 
           property="twitter:description" 
@@ -53,8 +53,8 @@ export default function MainLayout({
         />
         <meta property="twitter:image" content="/assets/logo.svg" />
 
-        <link rel="icon" type="image/png" sizes="32x32" href="/assets/logo.svg" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/assets/logo.svg" />
+        <link rel="icon" type="image/svg" sizes="32x32" href="/assets/logo.svg" />
+        <link rel="icon" type="image/svg" sizes="16x16" href="/assets/logo.svg" />
         <link rel="apple-touch-icon" sizes="180x180" href="/assets/logo.svg" />
         <link rel="manifest" href="/manifest.json" />
 
@@ -69,7 +69,7 @@ export default function MainLayout({
               '@type': 'WebApplication',
               name: 'FX Trading Platform',
               description: 'Advanced forex trading platform with real-time market data and portfolio management',
-              url: 'https://your-domain.com',
+              url: 'https://fxtrading-woad.vercel.app/',
               applicationCategory: 'FinanceApplication',
               operatingSystem: 'All',
               offers: {

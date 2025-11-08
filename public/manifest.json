@@ -6,6 +6,19 @@
   "display": "standalone",
   "background_color": "#0B0B0B",
   "theme_color": "#E85102",
-  "orientation": "portrait-primary"
-  
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg",
+      "purpose": "any maskable"
+    }
+  ]
 }
