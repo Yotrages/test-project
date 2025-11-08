@@ -1,14 +1,32 @@
-export const logo = '/assets/logo.svg'
-export const squares = '/assets/SquaresFour.svg'
-export const plus = '/assets/material-symbols-light_add.svg'
-export const swap = '/assets/Swap.svg'
-export const chatbar = '/assets/ChartBar.svg'
-export const wallet = '/assets/Wallet.svg'
-export const settings = '/assets/Setting.svg'
-export const help = '/assets/Help.svg'
-export const margin_Used = '/assets/Frame 12.svg'
-export const arrow_down = '/assets/icon-park-outline_down-c.svg'
-export const notification = '/assets/carbon_notification-new.png'
-export const user = '/assets/Group 3 1.svg'
-export const moreIcon = '/assets/pepicons-pencil_dots-y.svg'
-export const search = '/assets/search.svg'
+import logo from './Logo.svg'
+import squares from './SquaresFour.svg'
+import plus from './material-symbols-light_add.svg'
+import swap from './Swap.svg'
+import chatbar from './ChartBar.svg'
+import wallet from './Wallet.svg'
+import settings from './Setting.svg'
+import help from './Help.svg'
+import margin_Used from './Frame 12.svg'
+import arrow_down from './icon-park-outline_down-c.svg'
+import notification from './carbon_notification-new.png'
+import user from './Group 3 1.svg'
+import moreIcon from './pepicons-pencil_dots-y.svg'
+import search from './search.svg'
+
+export {
+  logo,
+  squares,
+  swap,
+  plus,
+  chatbar,
+  wallet,
+  settings,
+  help,
+  margin_Used,
+  arrow_down,
+  notification,
+  user,
+  moreIcon,
+  search
+}
+
